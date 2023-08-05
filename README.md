@@ -35,7 +35,7 @@ Certainly! Here's a description of a setup involving an HDT (High Definition Tem
 
 By following these steps, you can create a system where an HDT sensor connected to an ESP32 microcontroller sends temperature data to a PHP server, which then stores the data in a database.
 
-
+this link for yoy if you want to code php and see my data "https://github.com/Memo0302/code_php_is_Receives_data"
 
 ```
 #include <WiFi.h>
