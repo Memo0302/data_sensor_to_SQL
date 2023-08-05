@@ -46,10 +46,10 @@ this link for yoy if you want to code php and see my data "https://github.com/Me
 #define DHTTYPE DHT11 
 DHT dht11(DHTPIN, DHTTYPE); 
 
-String URL = "http://192.168.8.100/se/dht.php";
+String URL = "http://xxxxxx/se/dht.php";// xxxx mean my ip adress
 
-const char* ssid = "HW-4G-MobileWiFi-C821"; 
-const char* password = "01794962"; 
+const char* ssid = "xxxxxx"; // mean my name the network
+const char* password = "xxxxx"; // mean my password
 
 int temperature = 0;
 int humidity = 0;
