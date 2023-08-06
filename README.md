@@ -42,7 +42,7 @@ this link for yoy if you want to code php and see my data "https://github.com/Me
 #include <HTTPClient.h>
 
 #include <DHT.h> 
-#define DHTPIN 27 //D19 
+#define DHTPIN 27  
 #define DHTTYPE DHT11 
 DHT dht11(DHTPIN, DHTTYPE); 
 
@@ -120,3 +120,6 @@ void loop() {
   delay(5000);
 }
 ```
+
+![esp_dht](https://github.com/Memo0302/data_sensor_to_SQL/assets/92684739/a1154611-8686-4764-a336-6b394ea260c2)
+
